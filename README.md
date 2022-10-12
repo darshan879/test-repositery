@@ -1,4 +1,4 @@
-# test-repositery
+# My very first Repo
 
 
-This is a second example
+I am a quick learner.
